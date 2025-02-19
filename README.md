@@ -1,1 +1,1 @@
-this is the practise folder of C language, taught by code_with_harry, this is not complete tutorial
+this is the practise folder of C, python and multiple languages, taught by code_with_harry, this is not complete tutorial
